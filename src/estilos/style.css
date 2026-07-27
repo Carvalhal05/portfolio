@@ -95,7 +95,7 @@ main{
   margin-top: 20px;
 }
 
-.foto-perfil{
+#foto-perfil{
   width: 200px;
   aspect-ratio: 1/1;
   object-fit: cover;
